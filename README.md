@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @SamWitwickyy
-- 👀 I’m interested in ... Sex
-- 🌱 I’m currently learning ... Sex
-- 💞️ I’m looking to collaborate on ... Sex
-- 📫 How to reach me ... Sex
-- 😄 Pronouns: ... Sex
-- ⚡ Fun fact: ... Sex
+
 
 <!---
 SamWitwickyy/SamWitwickyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
